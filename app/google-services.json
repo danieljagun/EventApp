@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737923001342",
+    "project_id": "event-app-d714f",
+    "storage_bucket": "event-app-d714f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737923001342:android:d179d81c450fe5211a6eaf",
+        "android_client_info": {
+          "package_name": "com.example.eventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MIXBIW2eCm-qXV6IFnQ6-MZlgPRE5T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
